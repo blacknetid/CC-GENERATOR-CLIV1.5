@@ -12,8 +12,8 @@
 <h4 align="center">This tool can generete creditcard new version</h4>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-Golang-purple.svg?logo=Golang&logoColor=white"
-         alt="python">
+  <img src="https://img.shields.io/badge/Language-Golang-blue.svg?logo=Golang&logoColor=white"
+         alt="GOLANG">
   <img src="https://img.shields.io/badge/DARKXCODE-Team-black.svg?logoColor=white">
 </p>
 
@@ -54,6 +54,7 @@ This is the result if the code is successfully validation.
 
 > **NOTE**
 > Warning All the information provided here is intended solely for educational and testing purposes. I do not endorse any illegal activities or unfair usage of this program.
+
 
 
 
