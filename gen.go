@@ -41,7 +41,7 @@ type APIResponse struct {
 func NewCCGenerator(apikey string) *CCGenerator {
 	generator := &CCGenerator{
 		apikey:     apikey,
-		baseURL:    "https://api.darkxcode.site/other/cc-generator/V1.5/",
+		baseURL:    "https://api.darkxcode.shop/other/cc-generator/V1.5/",
 		resultsDir: "result",
 		client:     &http.Client{Timeout: 30 * time.Second},
 	}
